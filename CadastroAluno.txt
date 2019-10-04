@@ -2,7 +2,7 @@ Cadastro: Aluno
 
 Versao: 001
 
-RA:
-Nome:
-Telefone:
-e-mail:
+RA: 316102569
+Nome: Bruno Nunez
+Telefone: 11 9463160600
+e-mail: bruno.ds@gmail.com
